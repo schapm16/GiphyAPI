@@ -1,0 +1,38 @@
+
+.jumbotron {
+    background-color: #89FFEC;
+  
+    
+}
+
+.form-inline {
+    text-align: center;
+}
+
+.btn.btn-default {
+    border-color: #B25E3C;
+    margin: 10px
+}
+#buttons {
+    text-align: center;
+}
+
+#newTopic {
+    border-color: #B25E3C;
+    
+}
+
+#post {
+    text-align: center;
+    max-width: 100%;
+    margin: 40px auto;
+    padding: 0;
+    background-color: white;
+    border-color: #89FFEC;
+}
+
+.thumbnail {
+    display: inline-block;
+    margin: 40px;
+    border-color: #B25E3C;
+}
